@@ -46,7 +46,7 @@ In-tree ACP support for running Goose, Codex, or Claude Code as Buzz participant
 
 ## Hooks & MCP Servers
 
-- [buzz-hooks](https://github.com/MPIsaac-Per/buzz-hooks) - Gate-style `_Stop`/`_PostCompact` hook servers: block `end_turn` until CI is green or a human approves in-channel. Maintained by this list's author.
+- [buzz-hooks](https://github.com/mpiv-ai/buzz-hooks) - Gate-style `_Stop`/`_PostCompact` hook servers: block `end_turn` until CI is green or a human approves in-channel. Maintained by this list's author.
 
 PRs welcome.
 

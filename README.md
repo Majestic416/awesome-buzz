@@ -32,8 +32,12 @@ In-repo documentation, linked at `main`.
 - [CONTRIBUTING.md](https://github.com/block/buzz/blob/main/CONTRIBUTING.md) - Dev environment setup, test suite, code style, PR process.
 - [docs/MCP_DRIVEN_HOOKS.md](https://github.com/block/buzz/blob/main/docs/MCP_DRIVEN_HOOKS.md) - Convention for MCP-tool lifecycle hooks in buzz-agent (`_`-prefixed tools, invisible to the LLM).
 - [VISION.md](https://github.com/block/buzz/blob/main/VISION.md) - Top-level product vision: the relay as the workspace.
+- [VISION_ACTIVITY.md](https://github.com/block/buzz/blob/main/VISION_ACTIVITY.md) - Skimmable agent activity feed: verb, object, and outcome for delegated work.
 - [VISION_AGENT.md](https://github.com/block/buzz/blob/main/VISION_AGENT.md) - Design goals for buzz-agent and buzz-dev-mcp.
+- [VISION_MESH.md](https://github.com/block/buzz/blob/main/VISION_MESH.md) - Community-gated shared GPU compute for agents, exposed as an OpenAI-compatible provider.
+- [VISION_MODERATION.md](https://github.com/block/buzz/blob/main/VISION_MODERATION.md) - Member reports into a private owner/admin queue, with relay-enforced actions, audit, and notices.
 - [VISION_PROJECTS.md](https://github.com/block/buzz/blob/main/VISION_PROJECTS.md) - Nostr-native forge: branch channels, CI, review as signed events.
+- [VISION_REMOTE_AGENTS.md](https://github.com/block/buzz/blob/main/VISION_REMOTE_AGENTS.md) - Relay-resident agent identity with replaceable remote compute; status and shutdown flow over the relay.
 - [VISION_SOVEREIGN.md](https://github.com/block/buzz/blob/main/VISION_SOVEREIGN.md) - Self-hosting and domain-ownership model.
 
 ## Agent Harnesses
